@@ -32,6 +32,4 @@ CPU: Intel i5-8300H (8) @ 4.000GHz
 GPU: NVIDIA GeForce GTX 1050 Mobile w/ CUDA
 
 ## Credit:
-https://github.com/hbfawaz112/Mushroom-Detector-Flutter-ML
-
 https://github.com/ultralytics/yolov5
